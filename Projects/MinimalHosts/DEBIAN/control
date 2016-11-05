@@ -1,5 +1,5 @@
-Package: com.cstuff.minimalhostsblocker
-Name: Minimal Hosts Blocker
+Package: com.cstuff.hostsblocker
+Name: Hosts Blocker
 Version: 7.3
 Architecture: iphoneos-arm
 Pre-Depends: dpkg (>= 1.13.25-5)
